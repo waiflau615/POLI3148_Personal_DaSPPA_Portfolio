@@ -1,5 +1,5 @@
 ---
-title: "R markdown in-class demonstration"
+title: "Lecture 3 R markdown in-class demonstration"
 author: "Lau Wai Fung Raymond"
 date: "`r Sys.Date()`"
 output: pdf_document
